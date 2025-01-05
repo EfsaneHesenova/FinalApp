@@ -1,0 +1,1216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FinalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\implementations\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\externalservices\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\externalservices\\abstractions\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\abstractions\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\abstractions\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C053AE6-0D4B-4E77-BA6E-4E99EBAA6745}|Final.API\\Final.API.csproj|solutionrelative:final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\productdto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productdto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\productdto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productdto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\implementations\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\abstractions\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\userdto\\appuserreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\userdto\\appuserreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\userdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\userdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\externalservices\\implementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\implementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\externalservices\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\profiles\\userprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\userprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\profiles\\sizeprofiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\sizeprofiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\profiles\\categoryprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\categoryprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\userdtovalidators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\userdtovalidators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\userdto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\userdto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\userdtovalidators\\loginuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\userdtovalidators\\loginuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\productdtovalidators\\productupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\productdtovalidators\\productupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\productdtovalidators\\productcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\productdtovalidators\\productcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\sizedtovalidators\\sizeupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\sizedtovalidators\\sizeupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\sizedtovalidators\\sizecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\sizedtovalidators\\sizecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\sizedto\\sizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\sizedto\\sizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\categorydtovalidators\\categoryupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\categorydtovalidators\\categoryupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\colordtovalidators\\colorcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\colordtovalidators\\colorcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\colordtovalidators\\colorupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\colordtovalidators\\colorupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\validators\\categorydtovalidators\\categorycreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\validators\\categorydtovalidators\\categorycreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\colordto\\colorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\colordto\\colorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\colordto\\colorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\colordto\\colorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\categorydto\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\categorydto\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\categorydto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\categorydto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\dtos\\sizedto\\sizeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\sizedto\\sizeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD160434-FF67-4095-AA0A-53C596793514}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\abstractions\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\services\\abstractions\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\profiles\\colorprofiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\colorprofiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.bl\\profiles\\productprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D74588D-6D04-4595-98D0-4893D31EB1A4}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\repositories\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|c:\\users\\user\\source\\repos\\finalapp\\final.dal\\migrations\\20250103160718_addconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608E0D86-9F3A-4495-B991-E3FAADEF289C}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\migrations\\20250103160718_addconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Final.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Dockerfile",
+              "RelativeToolTip": "Final.API\\Dockerfile",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-05T18:00:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:58:02.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SizeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\SizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\SizeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\SizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\SizeService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:58:43.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\EmailService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:37:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "Final.API\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "Final.API\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:00:11.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Final.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Final.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:01:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SizesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\SizesController.cs",
+              "RelativeDocumentMoniker": "Final.API\\Controllers\\SizesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\SizesController.cs",
+              "RelativeToolTip": "Final.API\\Controllers\\SizesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:59:55.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Final.API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Final.API\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:59:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Program.cs",
+              "RelativeDocumentMoniker": "Final.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Program.cs",
+              "RelativeToolTip": "Final.API\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:21:13.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Final.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Final.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:59:41.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "Final.DAL\\Enums\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:02:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:58:26.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Implementations\\FileService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Implementations\\FileService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Implementations\\FileService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Implementations\\FileService.cs",
+              "ViewState": "AgIAACUAAAAgzszMzMwIwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:56:34.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Abstractions\\IFileService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Abstractions\\IFileService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Abstractions\\IFileService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Abstractions\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:56:15.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Final.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.API\\appsettings.json",
+              "RelativeToolTip": "Final.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T21:02:24.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ProductDto\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductDto\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ProductDto\\ProductUpdateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductDto\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:05:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IEmailService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:37:36.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:57:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\ColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:58:25.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:58:50.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\SizeConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\SizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Configurations\\SizeConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\SizeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:58:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ProductDto\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductDto\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ProductDto\\ProductCreateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductDto\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:04:56.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\AppUserService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\AppUserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\AppUserService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\AppUserService.cs",
+              "ViewState": "AgIAAE0AAAAAyczMzIwqwFMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:26:42.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:23:08.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppUserReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\UserDto\\AppUserReadDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\UserDto\\AppUserReadDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\UserDto\\AppUserReadDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\UserDto\\AppUserReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:29:36.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:45:49.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:44:14.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\UserDto\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\UserDto\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\UserDto\\LoginUserDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\UserDto\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:16:05.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\UserProfiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\UserProfiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\UserProfiles\\UserProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\UserProfiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:14:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\UserDtoValidators\\RegisterUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\UserDtoValidators\\RegisterUserDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\UserDtoValidators\\RegisterUserDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\UserDtoValidators\\RegisterUserDtoValidator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:00:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\UserDto\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\UserDto\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\UserDto\\RegisterUserDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\UserDto\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:16:27.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:48:12.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:57:24.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\UserDtoValidators\\LoginUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\UserDtoValidators\\LoginUserDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\UserDtoValidators\\LoginUserDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\UserDtoValidators\\LoginUserDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:59:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:48:45.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ProductDtoValidators\\ProductCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\ProductDtoValidators\\ProductCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ProductDtoValidators\\ProductCreateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\ProductDtoValidators\\ProductCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:37:35.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SizeUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\SizeDtoValidators\\SizeUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\SizeDtoValidators\\SizeUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\SizeDtoValidators\\SizeUpdateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\SizeDtoValidators\\SizeUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:38:23.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SizeCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\SizeDtoValidators\\SizeCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\SizeDtoValidators\\SizeCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\SizeDtoValidators\\SizeCreateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\SizeDtoValidators\\SizeCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:38:08.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SizeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\SizeDto\\SizeCreateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\SizeDto\\SizeCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\SizeDto\\SizeCreateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\SizeDto\\SizeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:05:25.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ProductDtoValidators\\ProductUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\ProductDtoValidators\\ProductUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ProductDtoValidators\\ProductUpdateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\ProductDtoValidators\\ProductUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:37:51.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoryUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\CategoryDtoValidators\\CategoryUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\CategoryDtoValidators\\CategoryUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\CategoryDtoValidators\\CategoryUpdateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\CategoryDtoValidators\\CategoryUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:37:20.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ColorCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ColorDtoValidators\\ColorCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\ColorDtoValidators\\ColorCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ColorDtoValidators\\ColorCreateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\ColorDtoValidators\\ColorCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:36:25.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ColorUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ColorDtoValidators\\ColorUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\ColorDtoValidators\\ColorUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\ColorDtoValidators\\ColorUpdateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\ColorDtoValidators\\ColorUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:37:05.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\CategoryDtoValidators\\CategoryCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Validators\\CategoryDtoValidators\\CategoryCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Validators\\CategoryDtoValidators\\CategoryCreateDtoValidator.cs",
+              "RelativeToolTip": "Final.BL\\Validators\\CategoryDtoValidators\\CategoryCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:24:19.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ColorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ColorDto\\ColorCreateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ColorDto\\ColorCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ColorDto\\ColorCreateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ColorDto\\ColorCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:04:30.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ColorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ColorDto\\ColorUpdateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ColorDto\\ColorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\ColorDto\\ColorUpdateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ColorDto\\ColorUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:04:44.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\CategoryDto\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\CategoryDto\\CategoryUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\CategoryDto\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\CategoryDto\\CategoryUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:04:16.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\CategoryDto\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\CategoryDto\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\CategoryDto\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\CategoryDto\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:04:05.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Size.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Size.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Size.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:26:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SizeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\SizeDto\\SizeUpdateDto.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\SizeDto\\SizeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\DTOs\\SizeDto\\SizeUpdateDto.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\SizeDto\\SizeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:05:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:26:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:26:30.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Color.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:26:44.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Final.DAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:28:23.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250103160718_addconfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Migrations\\20250103160718_addconfigurations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20250103160718_addconfigurations.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Migrations\\20250103160718_addconfigurations.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20250103160718_addconfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:07:19.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:22:29.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:23:05.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:26:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvyQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:10:14.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAAAoAAADA/////38swB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:58:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:08:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:08:37.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:09:59.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ISizeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:57:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:56:49.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:57:46.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:09:11.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:10:47.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:10:26.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:11:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:10:35.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:48:22.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:48:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApp\\Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:08:57.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

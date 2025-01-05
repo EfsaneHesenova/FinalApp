@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.BL.deps.json
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.BL.dll
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.BL.pdb
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.Core.dll
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.DAL.dll
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.DAL.pdb
+C:\Users\User\source\repos\FinalApp\Final.BL\bin\Debug\net8.0\Final.Core.pdb
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.csproj.Up2Date
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.dll
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\refint\Final.BL.dll
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\Final.BL.pdb
+C:\Users\User\source\repos\FinalApp\Final.BL\obj\Debug\net8.0\ref\Final.BL.dll
